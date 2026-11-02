@@ -29,6 +29,7 @@
 | 🧠 [MLP vs CNN](https://github.com/mohammed-mrabet/Mini-Projet2-MLP-CNN) | Classification de chiffres manuscrits, comparaison de deux architectures | Python · TensorFlow · Keras |
 | 🎯 [Détection temps réel](https://github.com/mohammed-mrabet/app-detection-car-person-truck) | Détection de personnes et véhicules avec interface desktop | YOLOv11 · OpenCV · PyQt5 |
 | 📚 [Gestion des notes](https://github.com/mohammed-mrabet/Gestion-Notes-JEE) | MVC2 + DAO, 3 rôles, bulletins PDF/CSV, sécurité BCrypt | Jakarta EE · JSF · JPA · MySQL |
+| 🛒 [Site e-commerce (PFE Licence)](https://github.com/mohammed-mrabet/pfe) | Site de vente en ligne : catalogue, panier, gestion des commandes et des produits (CRUD) | PHP · MySQL · JavaScript · Bootstrap |
 | 🎓 [Prédiction du décrochage](https://github.com/mohammed-mrabet/naivebayes-web) | Naïve Bayes intégré dans une application web | Spring Boot · Thymeleaf |
 
 ---
